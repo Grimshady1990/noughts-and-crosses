@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders / settings
+.vscode/
+.idea/
+
+# Vim / Neovim swap/backup files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Archives / backups
+*.zip
+*.tar.gz
+*.rar
+*.7z
