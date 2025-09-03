@@ -29,3 +29,7 @@ The game controller must only contain elements that manipulate the game board an
 The screen controller must only contain elements related to the DOM if everything inside the other two functions are working correctly then it should be very easy to translate that to the DOM without having to create any extra functionality
 
 The first objective to achieve this goal is to write pseudo code for the gameboard and the game controller till we are fully satisfied that everything is where it needs to be. The problem is I am not to sure how to write pseudo code effectively which means the next goal for this project is to watch some youtube videos about pseudo code.
+
+# Sept 3rd 22:03
+
+TEST: This is a test log sent from my mobile device to see if i can successfully save to the branch and reclaim it from my PC. 
