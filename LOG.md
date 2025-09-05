@@ -32,4 +32,10 @@ The first objective to achieve this goal is to write pseudo code for the gameboa
 
 # Sept 3rd 22:03
 
-TEST: This is a test log sent from my mobile device to see if i can successfully save to the branch and reclaim it from my PC. 
+TEST: This is a test log sent from my mobile device to see if i can successfully save to the branch and reclaim it from my PC.
+
+# Sept 5th 23:46
+
+I spent my evening learning about problem solving and pseudo code. And the main takeaway I got was that I dont have to solve all the problems right away. It is better to have something built that isn't great and work on the hard problems from there. Because it is easier to solve a problem from a position where you have gained experience in the situation instead of trying to figure out complex situation when you haven't even looked at any code.
+
+Tomorrow I am going to fully digest the problem solving lesson in TOP so I have a more rounded idea. 
