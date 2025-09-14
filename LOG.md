@@ -39,3 +39,16 @@ TEST: This is a test log sent from my mobile device to see if i can successfully
 I spent my evening learning about problem solving and pseudo code. And the main takeaway I got was that I dont have to solve all the problems right away. It is better to have something built that isn't great and work on the hard problems from there. Because it is easier to solve a problem from a position where you have gained experience in the situation instead of trying to figure out complex situation when you haven't even looked at any code.
 
 Tomorrow I am going to fully digest the problem solving lesson in TOP so I have a more rounded idea. 
+
+# Sept 14th 20:19
+
+Okay so I still hadn't gone through the lessons on TOP as I have been on holiday. I feel a little ashamed that I haven't picked this up for this long, but I felt it was important to spend some quality time with my family.
+
+Excuses out of the way I will now get on with the TOP problem solving class.
+
+NOTE: I also want to add that I had absolutely no idea what I was going to be doing when I opened this project this log brought clear clarity to where i am at and i now see the true power off keeping this log.
+
+# Sept 14 22:55
+
+Ive gone back through the lesson and the refresher was useful. When I come back to the project I will first plan, then write the pseudocode and finally divide and conquer. Also I found a website called coderbyte that has daily coding challenges ive saved the bookmark under coding challenges.
+
