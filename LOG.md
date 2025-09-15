@@ -52,3 +52,13 @@ NOTE: I also want to add that I had absolutely no idea what I was going to be do
 
 Ive gone back through the lesson and the refresher was useful. When I come back to the project I will first plan, then write the pseudocode and finally divide and conquer. Also I found a website called coderbyte that has daily coding challenges ive saved the bookmark under coding challenges.
 
+# Sept 15th 20:32
+
+Today I just received the book Think Like A Programmer by V. Anton Spraul Ive been told this book is essential reading. So my focus will be set on digesting as much of this book as can. 
+
+I will use this log to recap what I learnt each day.
+
+# Sept 15th 22:42
+
+The start of the book is showcases little puzzles such as sliding grids and sudoku and gives you different ways of thinking about the problem. So far a interesting book.
+
